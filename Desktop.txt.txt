@@ -8,4 +8,5 @@ Commit the changes using: git commit -m "First commit"
 Push the changes to GitHub using: git push origin main
 On GitHub: Go and check if the file that you just pushed is uploaded.
 
-added second line with Git Deskto commit 
+added second line with Git Desktop commit 
+Added more information about the exercise
