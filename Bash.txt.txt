@@ -1,0 +1,5 @@
+Now, in "TestRepo1" folder create another .txt file, give it a name add some text inside and save the file. For
+example, we named our file CommitFromGitHubDesktop.txt.
+On GitHub Desktop try to commit and push the second file. A pop-up window will appear telling you that there are
+new commits on remote and will ask you to fetch, before trying to push. This happens because the repository in
+“TestRepo1” folder is older than the repository in GitHub and doesn’t contain the changes we made via GitBash. 
