@@ -1,0 +1,9 @@
+Now you have two absolutely identical copies of your repository in two different folders on your computer. Imagine
+that these are two different people, each working on its own copy, on its own computer.
+In “TestRepo” folder create a .txt file, give it a name, and add some text inside and save the file. For example, our file
+is called CommitFromGitBash.txt.
+On GitBash: Go to the cloned repository directory using: cd path/to/your/repository
+Stage the changes using: git add CommitFromGitBash.txt
+Commit the changes using: git commit -m "First commit"
+Push the changes to GitHub using: git push origin main
+On GitHub: Go and check if the file that you just pushed is uploaded.
